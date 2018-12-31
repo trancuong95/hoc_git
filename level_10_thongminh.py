@@ -10,4 +10,4 @@ for j in range(0, X):
 
 print(m)
 print("Tran Cuong dep trai vl. Khong ai dep trai bang. HaHa")
-print("ATSM: ao tuong suc manh. kaka")
+print("ATSM: ao tuong suc manh. kakaka")
